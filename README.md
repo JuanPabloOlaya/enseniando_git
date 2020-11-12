@@ -1,4 +1,4 @@
-# enseniando_git
+# Enseñando Git
 
 ## Project setup
 ```
